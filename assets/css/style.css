@@ -86,7 +86,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* next 3 benefit classes have same properties and values*/
 .benefit-lead {
   margin-bottom: 32px;
   color: #ffffff;
@@ -101,7 +101,7 @@ p {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* next 3 benefit classes have same properties and values*/
 .benefit-lead h3 {
   margin-bottom: 10px;
   text-align: center;
